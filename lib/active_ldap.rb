@@ -3,7 +3,7 @@ require "active_model"
 require "active_support/core_ext"
 
 module ActiveLdap
-  VERSION = "3.1.1"
+  VERSION = "3.0.0"
   autoload :Command, "active_ldap/command"
 end
 
